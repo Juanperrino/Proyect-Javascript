@@ -17,6 +17,9 @@ section{
     clip-path: circle(0px at center);
 }
 
+.contenedor_general{
+    margin: 0 auto;
+}
 
 
 .container{
